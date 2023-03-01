@@ -1,0 +1,36 @@
+body{
+    background-image: url(fondo2.jpeg);
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        }
+#date{
+    color: blue;
+}
+header {
+    text-align: center;
+    border-bottom: 1px solid #848484 ;border-style: groove;
+    opacity: 0.9;
+    padding: 5px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  h1{
+    text-align: center;
+    border: 5px solid #848484 ; border-style: groove;
+    padding: 5px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  .info{
+    text-align: left;
+    border: 3px solid #848484 ; border-style: double;
+    border-bottom: 1px solid #848484 ;border-style: groove;
+    line-height: 30%;
+    
+    }
+  .academica{
+    text-align: center;
+    align-items: center;
+    border-bottom: 1px solid #848484 ;border-style: groove;
+  }
+  
